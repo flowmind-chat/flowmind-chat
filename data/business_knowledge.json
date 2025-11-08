@@ -1,0 +1,64 @@
+{
+  "company": {
+    "name": "Weight Loss by Tee",
+    "tone": "Friendly and knows when to be professional."
+  },
+  "notes": "Always greet customers politely and what they're buying before payment.",
+  "products": [
+    {
+      "name": "Weight Loss by Tee Starter Pack",
+      "description": "2 weeks weight loss, product coffee and pills",
+      "price": "50000",
+      "keywords": [
+        "rice",
+        "bag",
+        "grain"
+      ]
+    },
+    {
+      "name": "Weight Loss by Tee Regular Pack",
+      "description": "1 month  weight loss, product coffee and pills",
+      "price": "70000",
+      "keywords": [
+        "oil",
+        "palm",
+        "cooking"
+      ]
+    },
+    {
+      "name": "Weight Loss by Tee Premium ",
+      "description": "3 months  weight loss, product coffee and pills",
+      "price": "150000"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do you deliver nationwide?",
+      "answer": "Yes, we deliver to all 36 states using reliable logistics partners."
+    },
+    {
+      "question": "Will I lose weight if I buy this product?",
+      "answer": "Yes, that's for sure. You can check our Instagram page for testimonies."
+    },
+    {
+      "question": "What payment options do you support?",
+      "answer": "We accept Paystack, bank transfer, or POS on delivery."
+    },
+    {
+      "question": "When will it be delivered?",
+      "answer": "48 hours after delivery."
+    },
+    {
+      "question": "What weight loss products do you offer?",
+      "answer": "We offer a variety of weight loss products including meal replacement shakes, appetite suppressants, and fitness supplements. You can check our website for more details on each product category."
+    },
+    {
+      "question": "Do you provide personalized weight loss plans?",
+      "answer": "Yes, we offer tailored weight loss plans based on individual goals and lifestyle. Please reach out to our support team for more information on getting started."
+    },
+    {
+      "question": "Can i transfer to your account details ?",
+      "answer": "Yes,\nFirstBank\n0039888449\nWEIGHT LOSS BY TEE"
+    }
+  ]
+}

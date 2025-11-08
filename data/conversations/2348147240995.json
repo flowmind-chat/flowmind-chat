@@ -1,0 +1,47 @@
+{
+  "thread": "2348147240995",
+  "messages": [
+    {
+      "from": "2348147240995",
+      "text": "Hello",
+      "role": "customer",
+      "timestamp": "2025-11-02T12:58:36.730Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "Hello! How can I assist you today? If you're interested in our weight loss products, just let me know!",
+      "role": "bot",
+      "timestamp": "2025-11-02T12:58:40.943Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "Hello",
+      "role": "customer",
+      "timestamp": "2025-11-02T13:07:57.916Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "Hello again! How can I help you today? If you have any questions or if you're considering one of our products, feel free to ask!",
+      "role": "bot",
+      "timestamp": "2025-11-02T13:08:02.402Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "I would like to purchase your weight loss product",
+      "role": "customer",
+      "timestamp": "2025-11-02T13:08:31.717Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "Great choice! We have three different weight loss products:\n\n1. **Weight Loss by Tee Starter Pack** - 2 weeks weight loss, includes coffee and pills for 32,000.\n2. **Weight Loss by Tee Regular Pack** - 1 month weight loss, includes coffee and pills for 70,000.\n3. **Weight Loss by Tee Premium** - 3 months weight loss, includes coffee and pills for 150,000.\n\nPlease let me know which one you'd like to purchase!",
+      "role": "bot",
+      "timestamp": "2025-11-02T13:08:35.263Z"
+    },
+    {
+      "from": "2348147240995",
+      "text": "thanks",
+      "role": "operator",
+      "timestamp": "2025-11-02T13:08:51.766Z"
+    }
+  ]
+}
