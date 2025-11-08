@@ -4,7 +4,8 @@ import Training from "./Training";
 import Orders from "./Orders";
 import "./style.css";
 
-const API = "http://localhost:7000";
+
+const API = process.env.REACT_APP_API || "https://flowmind-chat.onrender.com";
 
 function App() {
   const [tab, setTab] = useState("chat");
