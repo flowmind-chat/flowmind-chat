@@ -1,1 +1,11 @@
-.env 
+node_modules/
+logs/
+data/*.json
+!data/sample_*.json
+*.log
+.env
+/.env.local
+/.vscode/
+dist/
+frontend/flowmind-dashboard-new/build/.env 
+node_modules
